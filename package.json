@@ -1,0 +1,13 @@
+{
+  "name": "flatpickr-js",
+  "version": "1.0.0",
+  "description": "A lightweight, powerful javascript datetime picker",
+  "main": "flatpickr.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FocusVision/flatpickr-js.git"
+  },
+  "author": "Gregory <gregory.mkv@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://flatpickr.js.org"
+}
