@@ -1,0 +1,11 @@
+{
+  "name": "focusvision/flatpickr-js",
+  "description": "Date-Time Picker",
+  "homepage": "https://github.com/flatpickr/flatpickr",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Gregory Petrosyan"
+    }
+  ]
+}
