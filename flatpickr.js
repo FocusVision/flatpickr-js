@@ -1,9 +1,3 @@
-/*
- * flatpickr.js
- *
- * @copyright 2003-2026 Forsta. All Rights Reserved.
- */
-
 /* flatpickr v4.6.13, @license MIT */
 (function (global, factory) {
     typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory() :

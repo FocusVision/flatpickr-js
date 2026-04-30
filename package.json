@@ -1,6 +1,6 @@
 {
   "name": "flatpickr-js",
-  "version": "1.0.0",
+  "version": "4.6.13",
   "description": "A lightweight, powerful javascript datetime picker",
   "main": "flatpickr.js",
   "repository": {
